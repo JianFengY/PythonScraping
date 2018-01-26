@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 def getTitle(url):
     """获取title"""
     try:
-        # 网页在服务器上不存在或获取页面出现错误会返回404、500等HTTP错误，抛出HTTPError
+        # 网页在服务器上不存在或获取页面出现错误会返回404、500等HTTP错误，抛出HTTPError异常
         # 服务器不存在（url打不开）或url写错了，urlopen()返回一个None对象
         html = urlopen(url)
     except (HTTPError, URLError) as e:
