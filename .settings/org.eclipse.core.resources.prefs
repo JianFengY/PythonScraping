@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//chapter01_your_first_web_scraper/1_scrapetest.py=utf-8
+encoding//chapter01_your_first_web_scraper/2_beautifulsoup.py=utf-8
+encoding//chapter01_your_first_web_scraper/3_exception_handle.py=utf-8
+encoding//chapter02_advanced_html_parse/1_select_by_class.py=utf-8
+encoding//chapter02_advanced_html_parse/2_find_descendants.py=utf-8
+encoding//chapter02_advanced_html_parse/3_find_siblings.py=utf-8
+encoding//chapter02_advanced_html_parse/4_find_parents.py=utf-8
+encoding//chapter02_advanced_html_parse/5_regular_expressions.py=utf-8
+encoding//chapter02_advanced_html_parse/6_lambda_expressions.py=utf-8
